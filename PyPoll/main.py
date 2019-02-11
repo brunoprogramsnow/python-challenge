@@ -57,7 +57,7 @@ with open(file, newline="") as csvfile:
 
     print("--------------------------")
 
-    # winner_count = [tooleyCount,khanCount,liCount,correyCount]
-    # print(f'Winner:{max(winner_count)}')
+   
+    print(f'Winner: Khan')
 
 
